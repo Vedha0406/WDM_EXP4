@@ -76,9 +76,13 @@ plt.show()
 ### Output:
 ## Program 1:
 <img width="349" height="830" alt="image" src="https://github.com/user-attachments/assets/199fe928-5ea7-4c96-9d55-c2c97d0574ad" />
-<img width="349" height="830" alt="image" src="https://github.com/user-attachments/assets/8555c1e5-6fd0-4829-9620-9d72a08c2045" />
+
+
+<img width="496" height="375" alt="image" src="https://github.com/user-attachments/assets/7328a445-9b97-4caa-a5e5-de5feb06a493" />
+
 ## Program 2:
-<img width="859" height="740" alt="image" src="https://github.com/user-attachments/assets/ae1da22a-a7c8-431f-9121-e5747a41128b" />
+<img width="790" height="685" alt="image" src="https://github.com/user-attachments/assets/7b2b22d6-28b3-4e9b-9933-3824a68324f8" />
+
 ### Result:
 The implement Cluster and Visitor Segmentation for Navigation patterns in Python is execute successfully.
 
